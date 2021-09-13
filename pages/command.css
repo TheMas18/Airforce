@@ -1,0 +1,15 @@
+.navRight {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logOutBtn {
+  border: 2px solid black;
+  color: black;
+  background: transparent;
+}
+.logOutBtn:hover {
+  background-color: black;
+  color: white;
+}

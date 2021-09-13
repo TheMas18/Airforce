@@ -1,0 +1,27 @@
+.AdminNavbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+.AdminLogArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+.AdminLogAreaDiv {
+  width: 50%;
+}
+.bi-pencil-square {
+  cursor: pointer;
+  color: hsl(60, 100%, 50%);
+}
+.bi-trash-fill {
+  cursor: pointer;
+  color: hsl(0, 100%, 50%);
+}
+
+
