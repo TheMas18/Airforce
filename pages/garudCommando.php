@@ -209,8 +209,7 @@ if (isset($_POST['submitEligibility'])) {
     <div class="bg-light p-5 rounded">
       <h1>Garud Commando</h1>
       <p class="lead">
-      <h3>Apart from protecting the IAF’s vulnerable infrastructure and installations, Garuds engage in counter-terrorism, hostage rescue, providing aid during natural calamities and special military operations in the national interest.
-      </h3>
+      Apart from protecting the IAF’s vulnerable infrastructure and installations, Garuds engage in counter-terrorism, hostage rescue, providing aid during natural calamities and special military operations in the national interest.
       </p>
       <a class="btn btn-lg btn-primary" onclick='myFunction("content")' role="button">Check Eligibility »</a>
     </div>
@@ -335,14 +334,25 @@ if (isset($_POST['submitEligibility'])) {
   <!--  -->
   <div class="container mt-3">
     <div class="bg-light p-5 rounded">
-      <h1>History</h1>
-      <p>
-      <h5>After attempts by terrorists to attack two major air bases in Jammu and Kashmir in 2001, Indian Air Force commanders felt the need for a specialized force to protect these critical elements and to have a dedicated Commando Force trained in Special Forces techniques, Combat Search and Rescue, Reconnaissance, Counter Insurgency (COIN) Operations and Emergency in response to terror-threats to airfields.While the Army might have provided some Special forces units to the Air Force, its units were always subject to being posted out on rotation to other areas as per the Army's requirements. It was felt that the specialized training the air force would have provided such units would have to be repeated again and again for the replacement units.The initial plans mooted in October 2001 called for a specialized force with 2000 commandos. The group was originally called "Tiger Force", but was later renamed as "Garud Force".In order to address the need for a dedicated force, in September 2003, the Government of India authorized a 1080 strong force to be raised and trained on the lines of the Para commandos of the army and MARCOS of the Indian Navy, with the mandate of performing niche, Air Force specific operational tasks.</p>
-        </h4>
-        <h1>Organisation</h1>
-        <p>
-        <h5>Garud personnel are enlisted as airmen in the Indian Air Force. The Garud commandos are organised into fifteen 'flights'. These flights are deployed at air force stations. Each flight is led by an officer who holds the rank of a Squadron Leader or a Flight Lieutenant and is composed of around 60 to 70 men who usually operate in squads of 14 soldiers. The Garud Commando Force has a reported strength of over 1500 personnel as of 2017.A Wing Commander rank officer commands the force.Additional personnel are planned to be added to the force.</h5>
-        </p>
+      <h1>How To Apply For IAF Group Recruitment ?</h1>
+      <ul class="lead">
+        <li>
+          Visit official website www.airmenselection.cdac.in or www.careerindianairforce.cdac.in
+        </li>
+        <li>A new page will appear. New Users will have to register first.</li>
+        <li>Click on <strong>New User Register</strong></li>
+        <li>A new page will appear to enter your mobile no. and email to register yourself.</li>
+        <li>An OTP will be sent on your mobile no. and email.</li>
+        <li>Click on <strong>“Submit”</strong>.</li>
+        <li>A Login Id and Password will be sent to your registered mobile no. and email id.</li>
+        <li> <strong>Login</strong> using the <strong>Registration Number and Password</strong>. Select the post.</li>
+        <li>Fill up other details such as educational qualifications etc. depending upon the educational qualification of the candidate.</li>
+        <li>Pay examination fee as applicable, online using Credit/Debit Card or Internet Banking</li>
+        <li>Candidates are required to upload their scanned colour photograph and Signature (in English or in Hindi) in JPEG format.</li>
+        <li>Login with Registration Number and Password in the link for “UPLOAD” and thereafter, upload the file/scanned filled</li>
+        <li>Upload all the required certificates</li>
+        <li>Submit the application. Print out the acknowledgement for records.</li>
+      </ul>
     </div>
   </div>
 

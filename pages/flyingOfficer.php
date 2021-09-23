@@ -209,8 +209,7 @@ if (isset($_POST['submitEligibility'])) {
     <div class="bg-light p-5 rounded">
       <h1>Flying Officer</h1>
       <p class="lead">
-      <h3> As an officer in the Indian Air Force, the sky is the limit for you. You start your career as a Flying Officer and can rise up to the rank of Air Marshal. The chosen one from the Flying Branch becomes the head of the family.
-      </h3>
+      As an officer in the Indian Air Force, the sky is the limit for you. You start your career as a Flying Officer and can rise up to the rank of Air Marshal. The chosen one from the Flying Branch becomes the head of the family.
       </p>
       <a class="btn btn-lg btn-primary" onclick='myFunction("content")' role="button">Check Eligibility »</a>
     </div>
@@ -335,39 +334,25 @@ if (isset($_POST['submitEligibility'])) {
   <!--  -->
   <div class="container mt-3">
     <div class="bg-light p-5 rounded">
-      <h1> <b>AS A GRADUATE</b></h1><br>
-      <h5>As a Graduate/ Engineer, you can enter the Flying branch through the Air Force Academy. The following are the three modes of entry for Graduates/ Engineers to join the Flying branch:
-      </h5>
-      <h4>CDSE (COMBINED DEFENCE SERVICES EXAMINATION) (FOR MEN ONLY)</h4>
-      <h5>
-        <ol type="1">
-          <li>Men can enter through this mode of entry and will get a Permanent Commission.<br></li>
-          <li>Eligibility criteria:<br></li>
-          <h5 style="margin-left: 50px;">
-            <ul type="circle">
-              <li>Age - 20 to 24 years (at the time of commencement of course) <br></li>
-              <li>Nationality – Indian<br></li>
-              <li> Marital Status - Single<br></li>
-              <li> Gender - Men only.<br></li>
-
-              <li> Educational Qualifications<br></li>
-            </ul>
-            <ul type="square">
-              <li style="margin-left: 90px;">
-                <h5>Graduate (Three Year Course) in any discipline from a recognised University (with Physics and Mathematics at 10+2 level)/BE/B Tech (Four Year Course).</h5><br>
-              </li>
-
-              <li style="margin-left: 90px;">
-                <h5>Final Year/semester students are also eligible to apply, provided they produce Degree certificate issued by the University as per the date stipulated in the advertisement.</h5><br>
-              </li>
-              <li style="margin-left: 90px;">
-                <h5>No Percentage Bar for CDSE entry.<h5><br>
-              </li>
-            </ul>
-            <li> Advertisement Schedule: Advertisements are released by UPSC in the months of November and August.</li>
-          </h5>
-        </ol>
-      </h5>
+      <h1>How To Apply For IAF Group Recruitment ?</h1>
+      <ul class="lead">
+        <li>
+          Visit official website www.airmenselection.cdac.in or www.careerindianairforce.cdac.in
+        </li>
+        <li>A new page will appear. New Users will have to register first.</li>
+        <li>Click on <strong>New User Register</strong></li>
+        <li>A new page will appear to enter your mobile no. and email to register yourself.</li>
+        <li>An OTP will be sent on your mobile no. and email.</li>
+        <li>Click on <strong>“Submit”</strong>.</li>
+        <li>A Login Id and Password will be sent to your registered mobile no. and email id.</li>
+        <li> <strong>Login</strong> using the <strong>Registration Number and Password</strong>. Select the post.</li>
+        <li>Fill up other details such as educational qualifications etc. depending upon the educational qualification of the candidate.</li>
+        <li>Pay examination fee as applicable, online using Credit/Debit Card or Internet Banking</li>
+        <li>Candidates are required to upload their scanned colour photograph and Signature (in English or in Hindi) in JPEG format.</li>
+        <li>Login with Registration Number and Password in the link for “UPLOAD” and thereafter, upload the file/scanned filled</li>
+        <li>Upload all the required certificates</li>
+        <li>Submit the application. Print out the acknowledgement for records.</li>
+      </ul>
     </div>
   </div>
 
