@@ -31,7 +31,7 @@ $query = mysqli_query($conn, $data_search);
             <div class="container-fluid">
                 <div class="AdminNavbar">
                     <a class="navbar-brand" href="/Airforce/admin/adminPanel.php">
-                        <img src="https://indianairforce.nic.in/sites/all/themes/iaf/images/logo.png" alt="" width="150" height="50" />
+                    <img src="https://m.media-amazon.com/images/I/71BQbgfeqlL._SY355_.jpg" alt="" width="80" height="80" />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -54,7 +54,7 @@ $query = mysqli_query($conn, $data_search);
                             </li>
                         </ul>
                         <a class="btn logOutBtn" href="/Airforce/signout/logout.php" role="button">LOG OUT</a>
-                        <img src="https://indianairforce.nic.in/sites/all/themes/iaf/images/ashok-icon.png" alt="" width="50" height="70" />
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/1200px-Emblem_of_India.svg.png" alt="" width="50" height="70" />
                     </div>
                 </div>
             </div>

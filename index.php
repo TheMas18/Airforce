@@ -19,11 +19,11 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="/AirForce/">
-          <img src="https://indianairforce.nic.in/sites/all/themes/iaf/images/logo.png" alt="" width="150" height="50" />
+          <img src="https://m.media-amazon.com/images/I/71BQbgfeqlL._SY355_.jpg" alt="" width="80" height="80" />
         </a>
         <div class="navRight">
           <a class="btn logOutBtn" href="/Airforce/signin/signin.php" role="button">LOG IN</a>
-          <img src="https://indianairforce.nic.in/sites/all/themes/iaf/images/ashok-icon.png" alt="" width="50" height="70" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/1200px-Emblem_of_India.svg.png" alt="" width="50" height="70" />
         </div>
 
       </div>
@@ -41,13 +41,13 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="https://indianairforce.nic.in/sites/default/files/banner-1_0.jpg" class="d-block w-100" alt="..." />
+          <img src="https://ssbcrack.com/wp-content/uploads/2015/10/su-30-mki-iaf.jpg"  height="480" class="d-block w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="https://indianairforce.nic.in/sites/default/files/10jun2019n.JPG" class="d-block w-100" alt="..." />
+          <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/09/apache-helicopter-ap-1567873125.jpg" height="480" class="d-block w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="https://indianairforce.nic.in/sites/default/files/10jun1922.jpg" class="d-block w-100" alt="..." />
+          <img src="https://static-ai.asianetnews.com/images/01e8kwgn1kvg87s2w2p0mqtjp4/0--reditt-1-thumbnail-jpg.jpg" height="480" class="d-block w-100" alt="..." />
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -76,11 +76,11 @@
     </div>
     <div class="newArea">
       <div class="card m-2" style="width: 18rem;">
-        <img src="https://indianairforce.nic.in/sites/default/files/field/image/CAS_10Nov20%20.jpg" width="150" height="150"class="img-fluid m-auto" alt="...">
+        <img src="https://indianairforce.nic.in/wp-content/uploads/2021/07/CAS_10Nov20--scaled.jpg" width="150" height="150"class="img-fluid m-auto" alt="...">
         <div class="card-body">
           <h5 class="card-title">The Chief of Air Staff</h5>
           <p class="card-text">Air Chief Marshal Rakesh Kumar Singh Bhadauria PVSM AVSM VM ADC took over as the Chief of the Air Staff</p>
-          <a href="https://indianairforce.nic.in/content/chief-air-staff" class="btn btn-primary">See Info</a>
+          <a href="https://indianairforce.nic.in/chief-of-the-air-staff/" class="btn btn-primary">See Info</a>
         </div>
       </div>
       <div class="card m-2" style="width: 18rem;">
@@ -92,7 +92,7 @@
         </div>
       </div>
       <div class="card m-2" style="width: 18rem;">
-        <img src="https://indianairforce.nic.in/sites/default/files/styles/civil_image/public/19aug19_12_2.jpg?itok=lyRH-84Y" class="card-img-top" alt="...">
+        <img src="https://indianairforce.nic.in/wp-content/uploads/2021/09/Chinook.jpg" height="210 class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Aid to Civil Power</h5>
           <p class="card-text">Several Indian States have been facing the fury of floods.IAF continues to launch HADR ...</p>

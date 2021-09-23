@@ -103,7 +103,7 @@ if (isset($_POST['login'])) {
     ?>
     <main class="form-signin siginArea">
       <form action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="POST">
-        <img src="https://indianairforce.nic.in/sites/all/themes/iaf/images/logo.png" alt="" width="150" height="50" class="mt-2" />
+      <img src="https://m.media-amazon.com/images/I/71BQbgfeqlL._SY355_.jpg" alt="" width="80" height="80"  class="mt-2" />
         <h1 class="h3 mb-3 fw-normal">Login</h1>
 
         <div class="form-floating inputHere">

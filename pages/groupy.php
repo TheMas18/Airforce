@@ -199,7 +199,8 @@ if (isset($_POST['submitEligibility'])) {
     <div class="bg-light p-5 rounded">
       <h1>Group Y</h1>
       <p class="lead">
-        This Eligibility Form is conducted for those who are interested to Indian Air Force as Airmen in Group 'X' trades (except education instructor trade) and Group 'Y' trades [except Indian Air Force (security) and musician trades].
+      <h3>This Eligibility Form is conducted for those who are interested to Indian Air Force as Airmen in Group 'X' trades (except education instructor trade) and Group 'Y' trades [except Indian Air Force (security) and musician trades].
+      </h3>
       </p>
       <a class="btn btn-lg btn-primary" onclick='myFunction("content")' role="button">Check Eligibility »</a>
     </div>
@@ -324,25 +325,13 @@ if (isset($_POST['submitEligibility'])) {
   <!--  -->
   <div class="container mt-3">
     <div class="bg-light p-5 rounded">
-      <h1>How To Apply For IAF Group Recruitment ?</h1>
-      <ul class="lead">
-        <li>
-          Visit official website www.airmenselection.cdac.in or www.careerindianairforce.cdac.in
-        </li>
-        <li>A new page will appear. New Users will have to register first.</li>
-        <li>Click on <strong>New User Register</strong></li>
-        <li>A new page will appear to enter your mobile no. and email to register yourself.</li>
-        <li>An OTP will be sent on your mobile no. and email.</li>
-        <li>Click on <strong>“Submit”</strong>.</li>
-        <li>A Login Id and Password will be sent to your registered mobile no. and email id.</li>
-        <li> <strong>Login</strong> using the <strong>Registration Number and Password</strong>. Select the post.</li>
-        <li>Fill up other details such as educational qualifications etc. depending upon the educational qualification of the candidate.</li>
-        <li>Pay examination fee as applicable, online using Credit/Debit Card or Internet Banking</li>
-        <li>Candidates are required to upload their scanned colour photograph and Signature (in English or in Hindi) in JPEG format.</li>
-        <li>Login with Registration Number and Password in the link for “UPLOAD” and thereafter, upload the file/scanned filled</li>
-        <li>Upload all the required certificates</li>
-        <li>Submit the application. Print out the acknowledgement for records.</li>
-      </ul>
+      <h1><B> Airforce Group X & Y Salary</B></h1><br>
+      <h3>Joining the Indian Air Force as Airmen for Group X and Y posts is one of the most reputable jobs for any candidate willing to join the Defence Forces of India. Lakhs of applications are received each year by the male candidates who have passed their class 12th for the Indian Air Force Group X and Y as it is one of the highly reputable job that ensures a great pay scale, job security with a fair amount of perks, benefits, and allowances. Read this article to know about the Indian Air force Group X and y salary, on profile, career growth, and perks & allowances received by the selected candidates.
+      </h3>
+      <h1><B>Air Force Group X & Y Salary: Know Career Growth</B></h1><br>
+      <h3>The Indian Air Force is recruiting airmen for Group X & Y. The Group X is for the candidates having a technical qualification, that who have completed their 10+2 with Science and Maths or Diploma holders. While Group Y is for candidates having a non-technical qualification.
+
+        Here is the salary & career growth of candidates joining the Indian Air Force as Airmen in Group X and Y.</h3>
     </div>
   </div>
 
