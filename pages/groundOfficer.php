@@ -198,9 +198,9 @@ if (isset($_POST['submitEligibility'])) {
   <main class="container mt-2" id="ToTop">
 
     <div class="bg-light p-5 rounded">
-      <h1>Ground Officer</h1>
+      <h1><strong>Ground Officer</strong></h1>
       <p class="lead">
-      As an officer in the Ground Duty (Technical) Branch, you propel and manage your team to ensure that the Indian Air Force remains airworthy. You would be in charge of some of the most sophisticated equipment in the world by joining one of the sub branches based on your qualification.
+        As an officer in the Ground Duty (Technical) Branch, you propel and manage your team to ensure that the Indian Air Force remains airworthy. You would be in charge of some of the most sophisticated equipment in the world by joining one of the sub branches based on your qualification.
       </p>
       <a class="btn btn-lg btn-primary" onclick='myFunction("content")' role="button">Check Eligibility »</a>
     </div>
@@ -325,24 +325,39 @@ if (isset($_POST['submitEligibility'])) {
   <!--  -->
   <div class="container mt-3">
     <div class="bg-light p-5 rounded">
-      <h1>How To Apply For IAF Group Recruitment ?</h1>
-      <ul class="lead">
+      <h1>Ground Duty (Non-Technical)Branches (For Graduates/Post Graduates)</h1> <br>
+      <h5>
+        Managing human and material resources, the Ground Duty (Non- technical) Branch is the mechanism that steers the Indian AirForce.</h5> <br>
+      <strong>GENERAL ELIGIBILITY CRITERIA For Ground Duty (Non-technical) Branches</strong>
+      <ul>
         <li>
-          Visit official website www.airmenselection.cdac.in or www.careerindianairforce.cdac.in
+          Age - 20 to 26 Years for Graduates and Post Graduates (at the time of commencement of course.
         </li>
-        <li>A new page will appear. New Users will have to register first.</li>
-        <li>Click on <strong>New User Register</strong></li>
-        <li>A new page will appear to enter your mobile no. and email to register yourself.</li>
-        <li>An OTP will be sent on your mobile no. and email.</li>
-        <li>Click on <strong>“Submit”</strong>.</li>
-        <li>A Login Id and Password will be sent to your registered mobile no. and email id.</li>
-        <li> <strong>Login</strong> using the <strong>Registration Number and Password</strong>. Select the post.</li>
-        <li>Fill up other details such as educational qualifications etc. depending upon the educational qualification of the candidate.</li>
-        <li>Pay examination fee as applicable, online using Credit/Debit Card or Internet Banking</li>
-        <li>Candidates are required to upload their scanned colour photograph and Signature (in English or in Hindi) in JPEG format.</li>
-        <li>Login with Registration Number and Password in the link for “UPLOAD” and thereafter, upload the file/scanned filled</li>
-        <li>Upload all the required certificates</li>
-        <li>Submit the application. Print out the acknowledgement for records.</li>
+        <li>
+          Marital Status - Candidates below the age of 25 years must be Unmarried.
+        </li>
+        <li>
+          Nationality - Indian.
+        </li>
+        <li>
+          Gender - Both men and women.
+        </li>
+        <strong>
+          As a Graduate/Post Graduate you can join as an officer in any of the following Ground Duty (Non-technical) Branches.
+        </strong>
+      </ul>
+      <strong>ADMINISTRATION BRANCH</strong>
+      <ol style="list-style-type:decimal">
+        <li>Permanent Commission (for Men)/Short Service Commission (for Men & Women)</li>
+        <li>Responsible for the efficient management of both human and material resources. 
+        </li> <br>
+        <li>
+        Some of the officers of the Administration Branch are selected and trained to carry out the following duties also:
+          <ul>
+            <li>Air Traffic Controller – Involves maintaining an orderly flow of traffic and airspace management.</li>
+            <li>Fighter Controller – Performs the job of directing Fighter Aircraft and Weapon Systems against enemy in various Air Operations while ensuring Air Defence of the nation using Radar Networks.</li>
+          </ul>
+        </>
       </ul>
     </div>
   </div>
