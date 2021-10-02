@@ -409,7 +409,7 @@ if (isset($_POST['submitEligibility'])) {
           </label>
         </div>
         <div class="form-group">
-          <label><strong>Do you have Medical Certificate issued by trusted Physician?</strong></label> <br>
+        <label><strong>Do you have Medical Certificate issued by trusted Ophthalmologist ?</strong></label> <br>
           <label class="form-check form-check-inline">
             <input class="form-check-input" type="radio" name="glassesPOWER" value="1" />
             <span class="form-check-label"> Yes </span>

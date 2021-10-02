@@ -77,12 +77,12 @@ if (!isset($_SESSION['username'])) {
       </div>
     </div>
     <div class="newArea">
-      <div class="card m-2" style="width: 18rem;">
-        <img src="https://indianairforce.nic.in/wp-content/uploads/2021/07/CAS_10Nov20--scaled.jpg" width="150" height="150" class="img-fluid m-auto" alt="...">
+    <div class="card m-2" style="width: 18rem;">
+        <img src="https://indianairforce.nic.in/wp-content/uploads/2021/09/MPR-scaled.jpg" width="135" height="135"class="img-fluid m-auto" alt="...">
         <div class="card-body">
           <h5 class="card-title">The Chief of Air Staff</h5>
-          <p class="card-text">Air Chief Marshal Rakesh Kumar Singh Bhadauria PVSM AVSM VM ADC took over as the Chief of the Air Staff</p>
-          <a href="https://indianairforce.nic.in/chief-of-the-air-staff/" class="btn btn-primary">See Info</a>
+          <p class="card-text">Air Chief Marshal VR Chaudhari PVSM AVSM VM ADC was born on 04 Sep 1962 and commissioned into the fighter stream ...</p>
+          <a href="https://indianairforce.nic.in/?page_id=104" class="btn btn-primary">See Info</a>
         </div>
       </div>
       <div class="card m-2" style="width: 18rem;">
