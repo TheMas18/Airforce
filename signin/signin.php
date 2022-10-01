@@ -3,7 +3,7 @@ session_start();
 ob_start();
 ?>
 <?php
-include "../connection/config.php";
+// include "../connection/config.php";
 $show_email = false;
 $show_pass = false;
 if (isset($_POST['login'])) {
@@ -110,10 +110,10 @@ if (isset($_POST['login'])) {
           <input required type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="emailId" spellcheck="false" autocomplete="off" value="<?php if (isset($_COOKIE['emailcookie'])) {echo $_COOKIE['emailcookie'];} ?>" />
           <label for="floatingInput">Email address</label>
         </div>
-        <div class="form-floating inputHere">
+<!--         <div class="form-floating inputHere">
           <input required type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password" spellcheck="false" autocomplete="off" value="<?php if (isset($_COOKIE['passwordcookie'])) {echo $_COOKIE['passwordcookie'];} ?>" />
           <label for="floatingPassword">Password</label>
-        </div>
+        </div> -->
 
         <div class="checkbox mb-3">
           <label>
