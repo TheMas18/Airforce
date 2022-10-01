@@ -142,7 +142,7 @@ if (isset($_POST['register'])) {
                   <!-- <label>State</label> -->
                   <label for="exampleDataList" class="form-label">State</label>
                   <input class="form-control" name="State" spellcheck="false" list="datalistOptions" id="exampleDataList" placeholder="Select State" />
-                  <datalist id="datalistOptions">
+<!--                   <datalist id="datalistOptions">
                     <option value="Maharashtra"></option>
                     <option value="Telengana"></option>
                     <option value="Karnataka"></option>
@@ -172,7 +172,7 @@ if (isset($_POST['register'])) {
                     <option value="Sikkim"></option>
                     <option value="Tamil Nadu"></option>
                     <option value="Tripura"></option>
-                  </datalist>
+                  </datalist> -->
                 </div>
                 <br />
                 <!-- form-group end.// -->
